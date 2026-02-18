@@ -9,7 +9,7 @@
  # Live Demo
  https://gunjanvarshney246.github.io/Task-2-To-Do-App/
 
- ![Repository](todo-repo 2.png)
+ ![Repository](todo-repo2.png)
  ![Live App](todo-live.png)
  
  
