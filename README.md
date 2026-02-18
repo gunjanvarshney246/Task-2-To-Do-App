@@ -8,5 +8,3 @@
 
  # Live Demo
  https://gunjanvarshney246.github.io/Task-2-To-Do-App/
-
-todo-repo.png
